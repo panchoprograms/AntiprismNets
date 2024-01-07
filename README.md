@@ -1,2 +1,5 @@
-# AntiprismNets
-Mathematical Proofs
+# Antiprisms
+This is an overview and proof of an article written by Rick Mabry in _The American Mathematical Monthly_. Check out the article here! https://doi.org/10.1080/00029890.2019.1644124
+
+## Abstract 
+It is easy to imagine a cube, which is a prism, two squares connected by rectangles. If one unfolds a cube into a single sheet of paper, with the edges represented by lines, this 2-dimensional outline is a net. This understanding helps with the analysis of more unfamiliar shapes. Anti-prisms are n-sided polyhedrons made of two parallel and adjacent polygons connected by triangles. Intuitively, one should assume the nets of anti-prisms are more complicated than those previously described. The properties for nets allow for formulas for the total number (t<sub>n</sub>) of distinct nets, the total possible nets that can represent a specific anti-prism. Unlike prism nets, these nets will not be able to be folded in half and be symmetric, meaning anti-prisms are not bilaterally symmetric. However, they do have symmetry about its points and are represented by (s<sub>n</sub>).  It is possible to identify these nets using, evenly indexed Fibonacci numbers. The number of possible nets and symmetric nets calculated using the combinatorial properties of anti-prisms.
